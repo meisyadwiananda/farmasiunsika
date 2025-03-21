@@ -1,0 +1,21 @@
+Gejala,Penyakit,Obat yang Direkomendasikan,Efektivitas Obat (1.0-4.8)
+Perut Kembung, Gastritis, Antasida atau Omeprazole, 4.0
+Demam, Flu, Paracetamol atau Ibuprofen, 4.5
+Batuk, Infeksi Saluran Pernapasan, Dextromethorphan atau Guaifenesin, 4.2
+Batuk Kering, Iritasi Tenggorokan, Dextromethorphan atau Antihistamin, 4.1
+Batuk Berdahak, Infeksi Saluran Pernapasan, Guaifenesin atau Bromhexine, 4.3
+Pilek, Flu, Antihistamin atau Dekongestan, 4.0
+Sakit Kepala, Migrain, Paracetamol atau Ibuprofen, 4.3
+Pusing, Vertigo, Betahistine atau Dimenhydrinate, 4.1
+Nyeri Sendi, Artritis, Ibuprofen atau Naproxen, 4.3
+Nyeri Otot, Cedera Otot, Paracetamol atau Ibuprofen, 4.0
+Sakit Gigi, Infeksi Gigi, Ibuprofen atau Asam Mefenamat, 4.4
+Sakit Tenggorokan, Radang Tenggorokan, Lozenges atau Ibuprofen, 4.2
+Mimisan, Iritasi Hidung, Oksimetazolin atau Air Garam, 3.8
+Diare, Infeksi Pencernaan, Loperamide atau Oralit, 4.3
+Sembelit, Konstipasi, Laksatif atau Serat Tambahan, 4.1
+Asam Lambung, GERD, Omeprazole atau Ranitidine, 4.4
+Muntah, Mual, Domperidone atau Metoclopramide, 4.2
+Gatal-Gatal, Alergi, Cetirizine atau Loratadine, 4.3
+Ruam Kulit, Dermatitis, Hidrokortison atau Antihistamin, 4.0
+Sesak Napas, Asma, Salbutamol atau Kortikosteroid Inhalasi, 4.5
